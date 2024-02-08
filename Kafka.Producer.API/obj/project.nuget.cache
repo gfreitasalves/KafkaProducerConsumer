@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GHIArPb+IVtU0C8heTv+NUe/+6AbuP11QKEnxfhkQXthgfZHHxLdkufhe3nuo94jURlwZKi0Dqy1uQ0aFz1VQg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\gilba\\kafka\\Kafka.Producer.API\\Kafka.Producer.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gilba\\.nuget\\packages\\confluent.kafka\\2.3.0\\confluent.kafka.2.3.0.nupkg.sha512",
+    "C:\\Users\\gilba\\.nuget\\packages\\librdkafka.redist\\2.3.0\\librdkafka.redist.2.3.0.nupkg.sha512",
+    "C:\\Users\\gilba\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
